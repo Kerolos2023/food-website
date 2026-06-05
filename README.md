@@ -20,4 +20,4 @@
 
 
 Demo
-https://enchanting-fox-e5c788.netlify.app/
+https://curious-piroshki-a56bf1.netlify.app/
